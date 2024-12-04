@@ -1,4 +1,4 @@
-Future features: 
+Next updates:
 
 -User GUI
 -Sound 
